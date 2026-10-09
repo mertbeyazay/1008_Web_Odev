@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #e5e7eb;
+}
+
+header {
+    background-color: #234e70;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: #dbeafe;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: #234e70;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 16px;
+}
+
+main {
+    width: 75%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+}
+
+#giris {
+    text-align: center;
+    padding: 20px;
+}
+
+.mavi {
+    color: blue;
+}
+
+#guncel-yazilar h2 {
+    text-align: center;
+}
+
+#guncel-yazilar article {
+    width: 80%;
+    background-color: #f1f5f9;
+    padding: 15px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+#guncel-yazilar article img {
+    width: 70%;
+}
+
+#populer-konular {
+    background-color: #dbeafe;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #234e70;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
